@@ -25,7 +25,7 @@
 ## 🔧Installation setup
 Architecture diagram nhận diện gương mặt đeo khẩu trang.
 
-<img src="./images/diagram.PNG" width="850" height="350" />
+<img src="./images/diagram.PNG" width="850" height="250" />
 
 ### **Huấn luyện mô hình**
 
