@@ -4,7 +4,7 @@
 
 Ứng dụng Web nhận diện gương mặt có đeo khẩu trang được xây dựng trên Raspberry Pi 4B và Camera Pi, được chạy trên Web browser có thể triển khai bất kỳ thiết bị nào có thể cài đặt được Web browser. 
 
-<img src="../images/blazeface2.png" width="350" height="550" />
+<img src="./images/blazeface2.png" width="350" height="550" />
 
 ## 🔑Features
 
