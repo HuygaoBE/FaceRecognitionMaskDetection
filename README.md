@@ -25,7 +25,7 @@ Tính năng nhận diện gương mặt đeo khẩu trang:
 ## 🔧Installation setup
 Architecture diagram nhận diện gương mặt đeo khẩu trang.
 
-<img src="./images/diagram.PNG" width="550" height="350" />
+<img src="./images/diagram.PNG" width="850" height="350" />
 
 **[Huấn luyện mô hình]**
 
