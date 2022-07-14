@@ -33,13 +33,13 @@ Architecture diagram nhận diện gương mặt đeo khẩu trang.
   
   <img src="./images/loss.PNG" width="550" height="350" />
   
-    _Nhận xét:_ Bộ kiểm tra thử, lại cho đồ thị dự đoán về độ lỗi (Loss) cao và không bám sát theo mô hình và cần lọc hình ảnh sai lệch và huấn luyện lại mô hình.
+    _Nhận xét: Bộ kiểm tra thử, lại cho đồ thị dự đoán về độ lỗi (Loss) cao và không bám sát theo mô hình và cần lọc hình ảnh sai lệch và huấn luyện lại mô hình.
 
   
   * Điều chỉnh dữ liệu(dataset) và huấn luyện lại mô hình
   
   <img src="./images/acc.PNG" width="550" height="350" />
-    _Nhận xét:_ Sau khi có sự điều chỉnh, cải thiện dataset và train lại model thì độ chính xác được tăng lên rất cao và dự đoán độ lỗi (Loss) được giảm xuống mức thấp nhất.
+    _Nhận xét: Sau khi có sự điều chỉnh, cải thiện dataset và train lại model thì độ chính xác được tăng lên rất cao và dự đoán độ lỗi (Loss) được giảm xuống mức thấp nhất.
 
 
 ## 📘Main libraries used
