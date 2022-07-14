@@ -39,6 +39,8 @@ Architecture diagram nhận diện gương mặt đeo khẩu trang.
   <img src="./images/acc.PNG" width="550" height="350" />
     *Nhận xét* : Sau khi có sự điều chỉnh, cải thiện dataset và train lại model thì độ chính xác được tăng lên rất cao và dự đoán độ lỗi (Loss) được giảm xuống mức thấp nhất.
 
+  * Để hiểu thêm về mô hình nhận diện gương mặt đeo khẩu trang đầy đủ, mời bạn có thể tham khảo tài liệu do tôi viết: [Document](./Document.pdf)
+
 ## 📘Main libraries used
 Các API và train model: [Blazeface](https://github.com/tensorflow/tfjs-models/tree/master/blazeface) ,[Teachable Machine](https://teachablemachine.withgoogle.com/)
 
