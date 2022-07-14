@@ -21,24 +21,24 @@ Tính năng nhận diện gương mặt đeo khẩu trang:
   * Phân biệt gương mặt không đeo khẩu trang.
   * Hiển thị độ chính xác giữa 2 lớp No Mash và Mash.
   
-  <img src="./images/face_mask2.PNG" width="350" height="350" /> <img src="./images/Inkedface_no_mask.PNG" width="350" height="350" />
+  <img src="./images/face_mask2.PNG" width="350" height="350" /> <img src="./images/Inkedface_no_mask.jpg" width="350" height="350" />
 ## 🔧Installation setup
 Architecture diagram nhận diện gương mặt đeo khẩu trang.
 
-<img src="./images/diagram.PNG" width="350" height="350" />
+<img src="./images/diagram.PNG" width="550" height="350" />
 
 **[Huấn luyện mô hình]**
 
   * Huấn luyện mô hình lần 1
   
-  <img src="./images/loss.PNG" width="350" height="550" />
+  <img src="./images/loss.PNG" width="550" height="350" />
   
     * _[Nhận xét:]_ Bộ kiểm tra thử, lại cho đồ thị dự đoán về độ lỗi (Loss) cao và không bám sát theo mô hình và cần lọc hình ảnh sai lệch và huấn luyện lại mô hình.
 
   
   * Điều chỉnh dữ liệu(dataset) và huấn luyện lại mô hình
   
-  <img src="./images/acc.PNG" width="350" height="550" />
+  <img src="./images/acc.PNG" width="550" height="350" />
     * _[Nhận xét:]_ Sau khi có sự điều chỉnh, cải thiện dataset và train lại model thì độ chính xác được tăng lên rất cao và dự đoán độ lỗi (Loss) được giảm xuống mức thấp nhất.
 
 
